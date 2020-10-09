@@ -8,7 +8,7 @@
 This repository contains the source code of my Bachelor thesis with the topic "An Analysis of Binaural Localization Models with Explainable Machine Learning Methods". A PDF version is available on my website: http://pretzelsolution.com/binaural-localization
 
 # Code structure
-* **1_data_presentation.ipynb**: Visually investigation of the HRIR database, directional sound simulation and decision of which preprocessing is applied for the input feature vector (->ILD)
+* **1_data_presentation.ipynb**: Visually investigation of the HRIR database, directional sound simulation and decision of which preprocessing is applied for the input feature vector. Interaural level difference (ILD) has been chosen.
 * **2_training.ipynb**: DNN training with grid search hyperparameter optimization
 * **3_evaluation.ipynb**: Evaluate DNNs with different error metrics and explain its predictions with LRP
 * **custom_dataset_class.ipynb**: Additional dataset class which can be used to conduct memory efficiant preprocessing in batches
@@ -34,3 +34,4 @@ Copy the repository to your google drive and run the notebooks with colab.
 
 Content in the folder LRP is licensed under the [BSD License 2.0](https://github.com/moboehle/Pytorch-LRP/blob/master/license.txt) by Moritz Böhle and available in [this](https://github.com/moboehle/Pytorch-LRP) repository.
 
+The HRIR database was created by [J. Arend et. al.](http://audiogroup.web.th-koeln.de/ku100hrir.html) under [Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/) and can be downloaded [here](http://sofacoustics.org/data/database/thk/)
