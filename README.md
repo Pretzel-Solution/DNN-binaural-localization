@@ -13,7 +13,7 @@
   </a> is licensed under 
   <a rel="license" href="https://creativecommons.org/licenses/by/4.0">
     CC BY 4.0
-    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" />
-    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" align="left" height="11" width="11" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" align="left" height="11" width="11"/>
   </a>
 </p>
