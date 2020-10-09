@@ -1,5 +1,5 @@
 <a href="https://github.com/Pretzel-Solution/DNN-binaural-localization/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Pretzel-Solution/DNN-binaural-localization"></a>
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Pretzel-Solution/DNN-binaural-localization)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Pretzel-Solution/DNN-binaural-localization)
 
 # DNN-binaural-localization
 1. Simulate directional sound with head related impulse responses (HRIRs)
