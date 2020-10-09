@@ -5,9 +5,16 @@
 2. Train a deep neural network (DNN) to locate sound sources
 3. Evaluate the DNN and analyse it with layer-wise relevance propagation (LRP)
 
+This repository contains the source code of my Bachelor thesis with the topic "An Analysis of Binaural Localization Models with Explainable Machine Learning Methods". A PDF version is available on my website: http://pretzelsolution.com/binaural-localization
+
 # Code structure
 * **1_data_presentation.ipynb**: Visually investigation of the HRIR database, directional sound simulation and decision of which preprocessing is applied for the input feature vector (->ILD)
 * **2_training.ipynb**: DNN training with grid search hyperparameter optimization
+* **3_evaluation.ipynb**: Evaluate DNNs with different error metrics and explain its predictions with LRP
+* **custom_dataset_class.ipynb**: Additional dataset class which can be used to conduct memory efficiant preprocessing in batches
+
+# Quickstart
+Copy the repository to your google drive and run the notebooks with colab.
 
 # License
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" class="license-text">
