@@ -4,8 +4,9 @@
 3. Evaluate the DNN with layer-wise relevance propagation (LRP)
 
 # Licence
-Text, figures and source code of the work
+
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" class="license-text">
+   Text, figures and source code of the work
    <a rel="cc:attributionURL" property="dct:title" href="https://github.com/Pretzel-Solution/DNN-binaural-localization">
      An Analysis of Binaural Localization Models with Explainable Machine Learning Methods
   </a> by 
