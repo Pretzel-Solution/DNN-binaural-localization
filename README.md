@@ -1,3 +1,6 @@
+<a href="https://github.com/Pretzel-Solution/DNN-binaural-localization/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Pretzel-Solution/DNN-binaural-localization"></a>
+https://img.shields.io/github/license/Pretzel-Solution/DNN-binaural-localization
+
 # DNN-binaural-localization
 1. Simulate directional sound
 2. Train a deep neural network (DNN)
