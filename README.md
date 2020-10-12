@@ -1,5 +1,5 @@
 <a href="https://github.com/Pretzel-Solution/DNN-binaural-localization/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Pretzel-Solution/DNN-binaural-localization"></a>
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Pretzel-Solution/DNN-binaural-localization)
+<a><img alt="GitHub license" src="https://img.shields.io/badge/tensorflow-2.3.0-important"></a>
 
 # DNN-binaural-localization
 1. Simulate directional sound with head related impulse responses (HRIRs)
@@ -15,7 +15,10 @@ This repository contains the source code of my Bachelor thesis with the topic "A
 * **custom_dataset_class.ipynb**: Additional dataset class which can be used to conduct memory efficiant preprocessing in batches
 
 # Quickstart
-Copy the repository to your google drive and run the notebooks with colab.
+1. Create a folder named with "binaural_localization" in your Google Drive
+2. Copy content of this repository into the folder
+2. Doube-click on a Jupiter notebook, e.g. 1_data_presentation.ipynb, and choose "open with" "Google colab"
+3. Run the code
 
 # License
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" class="license-text">
