@@ -17,8 +17,9 @@ This repository contains the source code of my Bachelor thesis with the topic "A
 # Quickstart
 1. Create a folder named with "binaural_localization" in your Google Drive
 2. Copy content of this repository into the folder
-2. Doube-click on a Jupiter notebook, e.g. 1_data_presentation.ipynb, and choose "open with" "Google colab"
-3. Run the code
+3. Doube-click on a Jupiter notebook, e.g. 1_data_presentation.ipynb, and choose "open with" "Google colab"
+4. Mount Google Drive
+5. Run the code
 
 # License
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" class="license-text">
