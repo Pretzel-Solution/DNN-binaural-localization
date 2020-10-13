@@ -1,5 +1,5 @@
 <a href="https://github.com/Pretzel-Solution/DNN-binaural-localization/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Pretzel-Solution/DNN-binaural-localization"></a>
-<a><img alt="GitHub license" src="https://img.shields.io/badge/tensorflow-2.3.0-important"></a>
+<a><img alt="GitHub license" src="https://img.shields.io/badge/PyTorch-1.6.0-important"></a>
 
 # DNN-binaural-localization
 1. Simulate directional sound with head related impulse responses (HRIRs)
