@@ -22,21 +22,6 @@ This repository contains the source code of my Bachelor thesis with the topic "A
 5. Run the code
 
 # License
-<p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" class="license-text">
-   Text, figures and source code of the work
-   <a rel="cc:attributionURL" property="dct:title" href="https://github.com/Pretzel-Solution/DNN-binaural-localization">
-     An Analysis of Binaural Localization Models with Explainable Machine Learning Methods
-  </a> by 
-  <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="pretzelsolution.com">
-    Niclas Hildebrandt
-  </a> is licensed under 
-  <a rel="license" href="https://creativecommons.org/licenses/by/4.0">
-    CC BY 4.0
-    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" height="22" width="22" />
-    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" height="22" width="22" />
-  </a>
-</p>
-
 Content in the folder LRP is licensed under the [BSD License 2.0](https://github.com/moboehle/Pytorch-LRP/blob/master/license.txt) by Moritz Böhle and available in [this](https://github.com/moboehle/Pytorch-LRP) repository.
 
 The HRIR database was created by [J. Arend et. al.](http://audiogroup.web.th-koeln.de/ku100hrir.html) under [Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/) and can be downloaded [here](http://sofacoustics.org/data/database/thk/)
